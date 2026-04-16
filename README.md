@@ -8,9 +8,12 @@
 <td>
 </p>
 <div align="center">
-$\text{\color{#13263c} shurisuit }$ <br/>
-$\text{\color{#13263c} he/him 18yo }$ <br/>
-$\text{\color{#13263c} cxh freely. w2i }$ <br/>
+ <a href="https://pronouns.cc/@shurisuit">prnscc</a> <br/>
+ <br/>
+$\text{\color{#24606d} shurisuit or shuri }$ <br/>
+$\text{\color{#13263c} he or she 18yo }$ <br/>
+$\text{\color{#24606d} cxh freely. w2i }$ <br/>
+<br/>
 <details>
 <summary> </summary>
 
