@@ -13,6 +13,8 @@
 $\text{\color{#24606d} shurisuit or shuri }$ <br/>
 $\text{\color{#13263c} he or she 18yo }$ <br/>
 $\text{\color{#24606d} cxh freely. w2i }$ <br/>
+ <br/>
+ <a href="https://shurisuit.straw.page/">sign my sp</a> <br/>
 <br/>
 <details>
 <summary> </summary>
