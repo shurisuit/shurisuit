@@ -17,7 +17,7 @@ $\text{\color{#24606d} cxh freely. w2i }$ <br/>
 <br/>
 <br/>
  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zbr507sz6hmcwi68id24fiz7m&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) <br/>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zbr507sz6hmcwi68id24fiz7m&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=24606d&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) <br/>
 ![](https://komarev.com/ghpvc/?username=mediaoverlord&color=13263c&label= eggsuit )
             
 </p>
